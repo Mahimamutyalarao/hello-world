@@ -1,0 +1,18 @@
+Git is a version control system
+It tracks all the changes and who made the changes to the repository.
+
+---------------------------------------------------------------COMMANDS---------------------------------------------------------------------
+
+**Version: git --version
+
+**Setting up the user name and user emails:
+git config --global user.name "Mahima"
+git config --global user.email "mahima.kukkamalla@cpagemini.com"
+
+**initialize the git: git init
+
+**creating a new directory : mkdir Directoryname
+
+**current directory: cd Directoryname(changing the working directory)
+
+**listing all the files in the current directory: ls
